@@ -21,7 +21,7 @@ dataset_file = 'documents-trial.json'
 with open('documents-trial.json', encoding="utf8") as f:
     papers = json.load(f)
 
-print(len(papers), "papers loaded")
+#print(len(papers), "papers loaded")
 
 #We then load the allenai-specter model with SentenceTransformers
 model = SentenceTransformer('allenai-specter')
@@ -37,8 +37,8 @@ def search_papers(title, abstract):
   print("Most similar papers:")
   for hit in search_hits:
     related_paper = papers[hit['corpus_id']]
-    print(related_paper)
-    #print("{:.2f}\t{}\t{} {}".format(hit['score'], related_paper['dc.title'], related_paper['dc.contributor.author'], related_paper['dc.date.issued']))
+    #print(related_paper)
+    print("{:.2f}\t{}\t{} {}".format(hit['score'], related_paper['dc.title'], related_paper['dc.contributor.author'], related_paper['dc.date.issued']))
 
 # This paper was the EMNLP 2019 Best Paper
 search_papers(title='Desarrollo de software y medioambiente', abstract='')

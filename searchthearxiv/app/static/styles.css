@@ -37,7 +37,7 @@ p, a {
     display: inline-block;
     min-width: 70px;
     cursor: pointer;
-    background-color: rgba(0,0,0,0.25);
+    background-color: cmyk(100%, 30%, 0%, 35%);
 }
 
 .toggle p {
@@ -49,7 +49,7 @@ p, a {
 }
 
 .toggle_enabled {
-    background-color: black;
+    background-color: cmyk(100%, 30%, 0%, 35%);
 }
 
 #header {

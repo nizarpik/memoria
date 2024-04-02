@@ -58,7 +58,7 @@ def search():
     # once we have the query embedding, find closest matches in Pinecone
     try:
         #return render_template("index.html")
-        return get_matches()
+        return get_matches(embed)
     except Exception as e:
         print(f"Encountered error when fetching matches from Pinecone: {e}", flush=True)
         return error("Pinecone not responding. Try again in a few minutes.")
