@@ -1,0 +1,97 @@
+[
+    {
+        "dc.contributor.advisor": "FUENZALIDA O''SHEE, DARCY ELIZARDO '",
+        "dc.contributor.author": "AGUIRRE KR�GER, IGNACIO RODRIGO",
+        "dc.coverage.spatial": "Casa Central, Valpara�so",
+        "dc.date.accessioned": {
+            "0": "2017-05-26T18:01:49Z",
+            "4": "2017-10-11T14:22:56Z"
+        },
+        "dc.date.available": {
+            "0": "2017-05-26T18:01:49Z",
+            "6": "2017-10-11T14:22:56Z"
+        },
+        "dc.date.issued": "2004",
+        "dc.identifier.uri": "http://hdl.handle.net/11673/546",
+        "dc.description": "Catalogado desde la versi�n  PDF de la tesis",
+        "dc.description.abstract": "En la era del advenimiento de la tecnolog�a y de la globalizaci�n, el rol de las tecnolog�as de la informaci�n en el entorno de la macro y micro econom�a juega un papel relevante. Las barreras de las competencias bajan, los modelos de negocios basados en precios son cada vez m�s dif�ciles de defender. La din�mica de los negocios se enfrenta a cambios cada vez mayores y la tecnolog�a apuesta a jugar un rol importante en este nuevo escenario. En este marco din�mico, la empresa necesita de un modelo de gesti�n que le ayude a ajustarse a las nuevas formas de hacer negocio, desarrollando estructuras flexibles de acuerdo a las necesidades y tiempos de soluci�n que impone el mercado. La complejidad de aprender del acelerado mercado tecnol�gico y el desarrollar nuevas estrategias diferenciadores, constituyen el verdadero desaf�o para la empresa que desee tener �xito. El presente trabajo de investigaci�n tiene por objetivo proporcionar al lector el estado del arte de las herramientas WEB transaccionales y probar que la incorporaci�n de estas herramientas de tecnolog�as de informaci�n (T.I), tiene un impacto positivo directo en las funciones de Rentabilidad, y Costos asociados en las �reas de servicio de la empresa y que constituir�n en el futuro inmediato, parte esencial de los elementos calificadores en los negocios y un generador de las ventajas comparativas de la empresa. Para delimitar el campo del presente estudio y el �rea de an�lisis, el desarrollo de la investigaci�n se centrar� en la implantaci�n de Cronus (M.R), un CMR est�ndar del mercado y en los datos emp�ricos de la explotaci�n de esta herramienta como apoyo a la gesti�n de la Administraci�n de un ''''Help Desk'''' de servicios t�cnico.'",
+        "dc.format.extent": "139 h.",
+        "dc.format.medium": {
+            "0": "CD ROM",
+            "13": "Papel"
+        },
+        "dc.format.mimetype": "application/pdf",
+        "dc.language.iso": "es",
+        "dc.publisher": "Universidad T�cnica Federico Santa Mar�a",
+        "dc.source.uri": "http://www.usm.cl",
+        "dc.subject": {
+            "0": "MARKETING EN INTERNET",
+            "19": "NEGOCIOS",
+            "20": "COMERCIO ELECTRONICO"
+        },
+        "dc.title": "HERRAMIENTAS WEB TRANSACCIONALES Y SU IMPACTO EN LA EMPRESA",
+        "dc.type": "Tesis Postgrado",
+        "dc.rights.accessRights": "B - Solamente disponible para consulta en sala (opci�n por defecto)",
+        "dc.description.degree": "MBA MAG�STER EN GESTI�N EMPRESARIAL",
+        "dc.contributor.department": "Universidad T�cnica Federico Santa Mar�a UTFSM. Escuela de Graduados. MBA Internacional",
+        "dc.identifier.barcode": "3560900257223"
+    },
+    {
+        "dc.contributor.advisor": "GUTI�RREZ MENESES, LUIS AUGUSTO",
+        "dc.contributor.author": "ORELLANA CASTILLO, REINALDO JES�S",
+        "dc.coverage.spatial": "Universidad T�cnica Federico Santa Mar�a UTFSM. Sede Vi�a del Mar",
+        "dc.date.accessioned": "2018-04-26T14:37:58Z",
+        "dc.date.available": "2018-04-26T14:37:58Z",
+        "dc.date.issued": "2017",
+        "dc.identifier.uri": "http://hdl.handle.net/11673/39997",
+        "dc.description": "Catalogado desde la version PDF de la tesis.",
+        "dc.description.abstract": "El presente trabajo ser� desarrollado en la Fundici�n de Cobre y Refiner�a Ventanas de CODELCO Chile, ubicada en la localidad de Ventanas, Puchuncav�, regi�n de Valpara�so, Chile.El objetivo principal de este trabajo es establecer una metodolog�a para sustituci�n de equipos seg�n indicadores de mantenimiento y seguridad de los puentes gr�as de productos intermedios, equipos de vital importancia en la superintendencia de refiner�a electrol�tica,ya que estos aseguran la continuidad en los procesos de obtenci�n de c�todos comerciales mediante el abastecimiento de cobre Blister en forma de �nodo, proveniente del �rea de refino a fuego.Para desarrollar este trabajo se utiliz� como fuente de informaci�n la base de datos del departamento de ingenier�a de mantenimiento, datos multifuente y principalmente el sistema SAP de mantenimiento.De esta manera se obtendr�n indicadores de Disponibilidad, costos de mantenimiento e informaci�n relevante que aporten a la gesti�n de mantenimiento de lostres puentes gr�as de productos intermedios.Finalmente se concluir� sobre los indicadores obtenidos se�alando algunas sugerencias y observaciones.",
+        "dc.format.extent": "134 h.",
+        "dc.format.medium": "CD ROM",
+        "dc.format.mimetype": "application/pdf",
+        "dc.subject": {
+            "0": "ANALISIS DE DISPONIBILIDAD",
+            "13": "CODELCO",
+            "14": "METODOLOGIA DE SUSTITUCION",
+            "15": "PUENTES GRUAS"
+        },
+        "dc.title": "METODOLOG�A PARA SUSTITUCI�N DE EQUIPOS SEG�N INDICADORES DE MANTENIMIENTO Y SEGURIDAD.",
+        "dc.type": "Tesis Pregrado",
+        "dc.rights.accessRights": "A - Internet abierta www.repositorio.usm.cl y otros repositorios a la que la USM se adscriba",
+        "dc.description.degree": "INGENIERO DE EJECUCI�N EN MANTENIMIENTO INDUSTRIAL",
+        "dc.contributor.department": "Universidad Tecnica Federico Santa Maria UTFSM MECANICA",
+        "dc.description.program": "INGENIER�A DE EJECUCI�N EN MANTENIMIENTO INDUSTRIAL",
+        "dc.identifier.barcode": "3560901063525",
+        "usm.identifier.thesis": "4500023136",
+        "usm.date.thesisregistration": "2017"
+    },
+    {
+        "dc.contributor.advisor": "PIZARRO MART�NEZ, F�LIX ARNALDO",
+        "dc.contributor.author": "SORIA-SANDON  , ARIEL AGUST�N",
+        "dc.coverage.spatial": "Universidad T�cnica Federico Santa Mar�a UTFSM. Sede Vi�a del Mar",
+        "dc.date.accessioned": "2018-04-26T15:40:39Z",
+        "dc.date.available": "2018-04-26T15:40:39Z",
+        "dc.date.issued": "2017",
+        "dc.identifier.uri": "http://hdl.handle.net/11673/40002",
+        "dc.description": "Catalogado desde la version PDF de la tesis.",
+        "dc.description.abstract": "En la industria minera los peque�os detalles marcan tendencia y cualquier cambio de h�bito genera valor al trabajo realizado.Actualmente un contrato de servicio de mantenimiento en el rubro minero no puede dejar de lado los conceptos de calidad y confiabilidad ya que �stos dan respaldo a la ejecuci�n del trabajo, genera satisfacci�n al cliente y ganancias monetarias a ambas partes tanto para el ejecutor como al mandante (cliente).El aseguramiento de la calidad para la organizaci�n es minimizar a cero los reprocesos que puedan ocurrir dentro de cada mantenci�nEl mantenimiento centrado en la confiabilidad � RCM analiza los datos recopilados de la ejecuci�n y operaci�n de la planta generando indicadores del desempe�o de los procesos.Las uniones de estos conceptos corporativos fundan el departamento de calidad/confiablidad dentro del servicio de mantenimiento.Este trabajo consta del cap�tulo 1, el cual describir� los antecedentes generales de la empresa, ubicaci�n de faena, equipos cr�ticos y datos del contrato �manejo de materiales - DGM�.El cap�tulo 2 describir� el funcionamiento actual del contrato antes de la implementaci�n del departamento de calidad/confiabilidad.En el cap�tulo 3 se explicar� el proceso de implementaci�n, estructura del departamento y los resultados que se esperan obtener.El cap�tulo 4 mostrar� la proyecci�n en el tiempo y los objetivos logrados durante la duraci�n del contrato.",
+        "dc.format.extent": "132 h.",
+        "dc.format.medium": "CD ROM",
+        "dc.format.mimetype": "application/pdf",
+        "dc.subject": {
+            "0": "CALIDAD",
+            "13": "CONFIABILIDAD",
+            "14": "CONFIABILIDAD HUMANA",
+            "15": "SERVICIO MANTENIMIENTO"
+        },
+        "dc.title": "IMPLEMENTACI�N DEL DEPARTAMENTO CALIDAD/CONFIABILIDAD A UN SERVICIO DE MANTENIMIENTO",
+        "dc.type": "Tesis Pregrado",
+        "dc.rights.accessRights": "A - Internet abierta www.repositorio.usm.cl y otros repositorios a la que la USM se adscriba",
+        "dc.description.degree": "INGENIERO DE EJECUCI�N EN MEC�NICA DE PROCESOS Y MANTENIMIENTO INDUSTRIAL",
+        "dc.contributor.department": "Universidad Tecnica Federico Santa Maria UTFSM MECANICA",
+        "dc.description.program": "INGENIER�A DE EJECUCI�N EN MEC�NICA DE PROCESOS Y MANTENIMIENTO INDUSTRIAL",
+        "dc.identifier.barcode": "3560901063519",
+        "usm.identifier.thesis": "4500023929",
+        "usm.date.thesisregistration": "2016"
+    }
+]
